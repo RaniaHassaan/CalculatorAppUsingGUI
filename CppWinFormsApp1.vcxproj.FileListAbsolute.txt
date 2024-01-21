@@ -1,0 +1,8 @@
+D:\GUI_1\CppWinFormsApp1\CppWinFormsApp1\x64\Debug\CppWinFormsApp1.vcxproj.AssemblyReference.cache
+D:\GUI_1\CppWinFormsApp1\CppWinFormsApp1\x64\Debug\CppWinFormsApp1.vcxproj.SuggestedBindingRedirects.cache
+D:\GUI_1\CppWinFormsApp1\CppWinFormsApp1\x64\Debug\CppWinFormsApp1.MyForm.resources
+D:\GUI_1\CppWinFormsApp1\CppWinFormsApp1\x64\Debug\CppWinFormsApp1.vcxproj.GenerateResource.cache
+D:\Projects_GUI\Calculator_GUI\CppWinFormsApp1\CppWinFormsApp1\x64\Debug\CppWinFormsApp1.vcxproj.AssemblyReference.cache
+D:\Projects_GUI\Calculator_GUI\CppWinFormsApp1\CppWinFormsApp1\x64\Debug\CppWinFormsApp1.vcxproj.SuggestedBindingRedirects.cache
+D:\Projects_GUI\Calculator_GUI\CppWinFormsApp1\CppWinFormsApp1\x64\Debug\CppWinFormsApp1.MyForm.resources
+D:\Projects_GUI\Calculator_GUI\CppWinFormsApp1\CppWinFormsApp1\x64\Debug\CppWinFormsApp1.vcxproj.GenerateResource.cache
